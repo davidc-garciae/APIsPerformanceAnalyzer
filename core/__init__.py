@@ -1,1 +1,0 @@
-# Core package para el analizador de rendimiento 
