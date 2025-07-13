@@ -1,0 +1,144 @@
+# 🐍 Python - Analizador de Rendimiento
+
+# Archivos de bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribución / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.venv
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE - Cursor
+.cursor/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Logs y temporales del sistema de monitoreo
+logs/
+*.log
+*.log.*
+monitoreo_*.json
+metrics_*.json
+api_logs_*.json
+temp_metrics/
+
+# Archivos de configuración local
+config_local.py
+config_local.json
+.env.local
+.env.production
+
+# Archivos de profiling
+*.prof
+*.profile
+profiling_data/
+performance_reports/
+
+# Archivos de datos temporales del monitor
+*.pid
+*.lock
+monitor_data/
+api_test_results/
+
+# Reportes y screenshots
+screenshots/
+reports/
+*.html
+*.pdf
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archivos de backup
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# 🗑️ ARCHIVOS LEGACY A IGNORAR (pero mantener por ahora)
+# Descomenta estas líneas cuando elimines los archivos legacy:
+# api/
+# core/
+# main.py
+# test_fix.py
+# test_demo.py
+# demo_completo.py
+# ejecutar_app_completa.py
+# README_EJECUCION.md
+
+# Archivos específicos del proyecto que no deben subirse
+ARCHIVOS_A_ELIMINAR.md
+
+# Datos sensibles (en caso de que agregues APIs con keys)
+*.key
+*.pem
+secrets.json
+api_keys.json
+
+# Archivos de pruebas pesados
+large_test_files/
+performance_data/
+stress_test_results/ 
