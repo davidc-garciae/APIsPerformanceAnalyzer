@@ -1,5 +1,23 @@
 # 📊 Analizador de Rendimiento de APIs - Sistemas Operativos
 
+---
+
+## 📹 Demostración en Video
+
+**🎬 ¡Ve el sistema en acción!** - Demostración completa del monitor de APIs y aplicación de ejemplo
+
+[![🎥 Ver Demostración del Sistema](https://img.shields.io/badge/📹%20Ver%20Demo%20Completa-Google%20Drive-4285f4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W2RThVsxvmdu_L6ytYwCv5eYvVXd3blj/view?usp=sharing)
+
+**En el video verás:**
+
+- 🌐 Monitor de APIs en funcionamiento
+- 🎯 Aplicación de ejemplo con operaciones intensivas
+- 📊 Métricas en tiempo real del sistema
+- 🔥 Tests de carga y estrés
+- 💻 Interfaces de consola y web
+
+---
+
 > **Sistema completo de monitoreo y análisis de rendimiento**  
 > Monitoreo del sistema operativo + Análisis de APIs REST + Aplicación de ejemplo
 
